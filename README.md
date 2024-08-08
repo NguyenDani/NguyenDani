@@ -9,10 +9,10 @@ Hello! 👋 I'm Daniel Nguyen, a passionate Software Engineer and Cybersecurity 
 ### 👨‍💻 Software Engineering
 
 
-* Languages: Python, JavaScript, C/C++, Java, JavaScript/TypeScript, SQL, HTML/CSS
+* Languages: Python, JavaScript, C/C++, Java, JavaScript/TypeScript, SQL, HTML/CSS, PowerShell, Bash
 * Frameworks/Libraries: React, Node.js, Three.js, Express.js, Angular, jQuery
 * Databases: MySQL, MongoDB
-* Tools/Platforms: Docker, Kubernetes, AWS, Git, CI/CD, PowerShell, Bash, Maven
+* Tools/Platforms: Docker, Kubernetes, AWS, Git, CI/CD, Maven, CMake
 
 ---
 
