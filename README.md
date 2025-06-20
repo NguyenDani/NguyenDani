@@ -7,7 +7,7 @@ Hello! 👋 I'm Daniel Nguyen, a cybersecurity enthusiast with a strong interest
 * 🔐 `ctf-writeups` – A growing collection of CTF and lab walkthroughs
 * 🔁 `reverse-lab` – Practice reversing binaries and understanding low-level code
 * ⚙️ `sec-tools` – Custom scripts for security automation
-* 💻 `secOS` - Custom built OS built from scratch
+* 💻 `devOS` - Custom built OS built from scratch
 
 ---
 
